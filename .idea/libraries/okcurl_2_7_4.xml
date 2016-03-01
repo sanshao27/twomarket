@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="okcurl-2.7.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okcurl/2.7.4/e2926338d5dc80488a1f00e96f88ffc0d6ed0d64/okcurl-2.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okcurl/2.7.4/3d1571f2c688be2d3a766262988cb7f70f9e5b6c/okcurl-2.7.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

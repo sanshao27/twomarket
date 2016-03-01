@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="airline-0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.airlift/airline/0.6/a545c95d96a4081698777b240574983b7ed39187/airline-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.airlift/airline/0.6/ff5f3cd0976c5a3509c45f082eed565b07a846c3/airline-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
